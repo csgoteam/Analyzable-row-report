@@ -33,7 +33,7 @@ b.本系统的主要功能、处理流程、数据流程及简要说明。
 
 
 用户注册
-![文件找不到了][image/1.png](https://github.com/csgoteam/Analyzable-row-report/blob/829ac42ef8c5146809738900e835fb8582673747/image/1.png)
+![文件找不到了](https://github.com/csgoteam/Analyzable-row-report/blob/829ac42ef8c5146809738900e835fb8582673747/image/1.png)
 
 用户登录:
 ![文件找不到了]
