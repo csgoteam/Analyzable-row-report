@@ -37,22 +37,28 @@ b.本系统的主要功能、处理流程、数据流程及简要说明。
 ![文件找不到了](https://github.com/csgoteam/Analyzable-row-report/blob/829ac42ef8c5146809738900e835fb8582673747/image/1.png)
 
 用户登录:
-![文件找不到了]
+
+![文件找不到了](https://github.com/csgoteam/Analyzable-row-report/blob/829ac42ef8c5146809738900e835fb8582673747/image/2.png)
 
 图书选购:
-![文件找不到了]
+
+![文件找不到了](https://github.com/csgoteam/Analyzable-row-report/blob/829ac42ef8c5146809738900e835fb8582673747/image/3.png)
 
 购物车管理：
-![文件找不到了]
+
+![文件找不到了](https://github.com/csgoteam/Analyzable-row-report/blob/829ac42ef8c5146809738900e835fb8582673747/image/4.png)
 
 查看订单:
-![文件找不到了]
+
+![文件找不到了](https://github.com/csgoteam/Analyzable-row-report/blob/829ac42ef8c5146809738900e835fb8582673747/image/5.png)
 
 管理员管理图书：
-![文件找不到了]
+
+![文件找不到了](https://github.com/csgoteam/Analyzable-row-report/blob/829ac42ef8c5146809738900e835fb8582673747/image/6.png)
 
 管理员管理订单：
-![文件找不到了]
+
+![文件找不到了](https://github.com/csgoteam/Analyzable-row-report/blob/829ac42ef8c5146809738900e835fb8582673747/image/7.png)
 
 
 
@@ -85,25 +91,32 @@ Windows XP Professional
 对软件系统总体功能/对象结构进行描述，包括结构图、流程图或对象图。
 ### 软件子系统功能/对象结构
 用户注册界面
-![文件找不到了]
+
+![文件找不到了](https://github.com/csgoteam/Analyzable-row-report/blob/829ac42ef8c5146809738900e835fb8582673747/image/8.png)
 
 管理员登陆
-![文件找不到了]
+
+![文件找不到了](https://github.com/csgoteam/Analyzable-row-report/blob/829ac42ef8c5146809738900e835fb8582673747/image/9.png)
 
 图书选购：
-![文件找不到了]
+
+![文件找不到了](https://github.com/csgoteam/Analyzable-row-report/blob/829ac42ef8c5146809738900e835fb8582673747/image/10.png)
 
 购物车管理：
-![文件找不到了]
+
+![文件找不到了](https://github.com/csgoteam/Analyzable-row-report/blob/829ac42ef8c5146809738900e835fb8582673747/image/11.png)
 
 查看订单
-![文件找不到了]
+
+![文件找不到了](https://github.com/csgoteam/Analyzable-row-report/blob/829ac42ef8c5146809738900e835fb8582673747/image/12.png)
 
 图书管理：
-![文件找不到了]
+
+![文件找不到了](https://github.com/csgoteam/Analyzable-row-report/blob/829ac42ef8c5146809738900e835fb8582673747/image/13.png)
 
 订单管理：
-![文件找不到了]
+
+![文件找不到了](https://github.com/csgoteam/Analyzable-row-report/blob/829ac42ef8c5146809738900e835fb8582673747/image/14.png)
 
 
 
